@@ -1,2 +1,2 @@
 # Milestone 4 Resume add some new feature
-3- Milestone 3 (Dynamic Resume Builder): Ensure the form functionality is working. Submit a link to your live project and GitHub repository.
+4- Milestone 4 (Editable Resume): Make sure the resume is editable. Submit the updated code and live project link.
